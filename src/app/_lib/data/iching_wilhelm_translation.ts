@@ -130,7 +130,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5c6f",
         pinyin: "zh\u016bn",
         english: "Beginning",
-        lines: "878887",
+        lines: "788878",
         wilhelm_above: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_below: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_symbolic:
@@ -184,7 +184,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8499",
         pinyin: "m\u00e9ng",
         english: "Childhood",
-        lines: "788878",
+        lines: "878887",
         wilhelm_above: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_below: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_symbolic:
@@ -238,7 +238,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u9700",
         pinyin: "x\u016b",
         english: "Needing",
-        lines: "878777",
+        lines: "777878",
         wilhelm_above: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_below: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_symbolic:
@@ -292,7 +292,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8a1f",
         pinyin: "s\u00f2ng",
         english: "Contention",
-        lines: "777878",
+        lines: "878777",
         wilhelm_above: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_below: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_symbolic:
@@ -346,7 +346,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5e2b",
         pinyin: "sh\u012b",
         english: "Multitude",
-        lines: "888878",
+        lines: "878888",
         wilhelm_above: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_below: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_symbolic:
@@ -400,7 +400,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u6bd4",
         pinyin: "b\u01d0",
         english: "Union",
-        lines: "878888",
+        lines: "888878",
         wilhelm_above: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_below: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_symbolic:
@@ -454,7 +454,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5c0f\u755c",
         pinyin: "xi\u01ceoch\u00f9",
         english: "Little Accumulation",
-        lines: "778777",
+        lines: "777877",
         wilhelm_above: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_below: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_symbolic:
@@ -508,7 +508,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5c65",
         pinyin: "l\u01da",
         english: "Fulfillment",
-        lines: "777877",
+        lines: "778777",
         wilhelm_above: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_below: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_symbolic:
@@ -562,7 +562,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u6cf0",
         pinyin: "t\u00e0i",
         english: "Advance",
-        lines: "888777",
+        lines: "777888",
         wilhelm_above: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_below: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_symbolic:
@@ -616,7 +616,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5426",
         pinyin: "p\u01d0",
         english: "Hindrance",
-        lines: "777888",
+        lines: "888777",
         wilhelm_above: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_below: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_symbolic:
@@ -670,7 +670,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u540c\u4eba",
         pinyin: "t\u00f3ngr\u00e9n",
         english: "Seeking Harmony",
-        lines: "777787",
+        lines: "787777",
         wilhelm_above: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FLAME" },
         wilhelm_symbolic:
@@ -724,7 +724,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5927\u6709",
         pinyin: "d\u00e0y\u01d2u",
         english: "Great Harvest",
-        lines: "787777",
+        lines: "777787",
         wilhelm_above: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FLAME" },
         wilhelm_below: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_symbolic:
@@ -778,7 +778,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8b19",
         pinyin: "qi\u0101n",
         english: "Humbleness",
-        lines: "888788",
+        lines: "887888",
         wilhelm_above: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_below: { chinese: "KEN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_symbolic:
@@ -832,7 +832,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8c6b",
         pinyin: "y\u00f9",
         english: "Delight",
-        lines: "887888",
+        lines: "888788",
         wilhelm_above: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_below: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_symbolic:
@@ -886,7 +886,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u96a8",
         pinyin: "su\u00ed",
         english: "Following",
-        lines: "877887",
+        lines: "788778",
         wilhelm_above: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_below: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_symbolic:
@@ -940,7 +940,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8831",
         pinyin: "g\u01d4",
         english: "Remedying",
-        lines: "788778",
+        lines: "877887",
         wilhelm_above: { chinese: "K\u00ean", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_below: { chinese: "Sun", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_symbolic:
@@ -994,7 +994,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u81e8",
         pinyin: "l\u00edn",
         english: "Approaching",
-        lines: "888877",
+        lines: "778888",
         wilhelm_above: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_below: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_symbolic:
@@ -1048,7 +1048,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u89c0",
         pinyin: "gu\u0101n",
         english: "Watching",
-        lines: "778888",
+        lines: "888877",
         wilhelm_above: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_below: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_symbolic:
@@ -1102,7 +1102,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u566c\u55d1",
         pinyin: "sh\u00eck\u00e8",
         english: "Eradicating",
-        lines: "787887",
+        lines: "788787",
         wilhelm_above: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_below: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_symbolic:
@@ -1156,7 +1156,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8cc1",
         pinyin: "b\u00ec",
         english: "Adorning",
-        lines: "788787",
+        lines: "787887",
         wilhelm_above: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_symbolic:
@@ -1210,7 +1210,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u525d",
         pinyin: "b\u014d",
         english: "Falling Away",
-        lines: "788888",
+        lines: "787887",
         wilhelm_above: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_symbolic:
@@ -1264,7 +1264,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5fa9",
         pinyin: "f\u00f9",
         english: "Turning Back",
-        lines: "888887",
+        lines: "788888",
         wilhelm_above: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_below: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_symbolic:
@@ -1318,7 +1318,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u7121\u5984",
         pinyin: "w\u00faw\u00e0ng",
         english: "Without Falsehood",
-        lines: "777887",
+        lines: "788777",
         wilhelm_above: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_below: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_symbolic:
@@ -1372,7 +1372,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5927\u755c",
         pinyin: "d\u00e0ch\u00f9",
         english: "Great Accumulation",
-        lines: "788777",
+        lines: "777887",
         wilhelm_above: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_below: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_symbolic:
@@ -1642,7 +1642,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u54b8",
         pinyin: "xi\u00e1n",
         english: "Mutual Influence",
-        lines: "877788",
+        lines: "877778",
         wilhelm_above: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_below: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_symbolic:
@@ -1696,7 +1696,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u6046",
         pinyin: "h\u00e9ng",
         english: "Long Lasting",
-        lines: "887778",
+        lines: "877778",
         wilhelm_above: { chinese: "CHEN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_below: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_symbolic:
@@ -1750,7 +1750,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u906f",
         pinyin: "d\u00f9n",
         english: "Retreat",
-        lines: "777788",
+        lines: "777777",
         wilhelm_above: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_below: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_symbolic:
@@ -1804,7 +1804,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5927\u58ef",
         pinyin: "d\u00e0zhu\u00e0ng",
         english: "Great Strength",
-        lines: "887777",
+        lines: "777788",
         wilhelm_above: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_below: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_symbolic:
@@ -1858,7 +1858,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u6649",
         pinyin: "j\u00ecn",
         english: "Proceeding Forward",
-        lines: "787888",
+        lines: "888787",
         wilhelm_above: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_below: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_symbolic:
@@ -1912,7 +1912,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u660e\u5937",
         pinyin: "m\u00edngy\u00ed",
         english: "Brilliance Injured",
-        lines: "888787",
+        lines: "787888",
         wilhelm_above: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_symbolic:
@@ -1966,7 +1966,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5bb6\u4eba",
         pinyin: "ji\u0101r\u00e9n",
         english: "Household",
-        lines: "778787",
+        lines: "787877",
         wilhelm_above: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_symbolic:
@@ -2020,7 +2020,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u777d",
         pinyin: "ku\u00ed",
         english: "Diversity",
-        lines: "787877",
+        lines: "778787",
         wilhelm_above: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FLAME" },
         wilhelm_below: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_symbolic:
@@ -2074,7 +2074,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8e47",
         pinyin: "ji\u01cen",
         english: "Hardship",
-        lines: "878788",
+        lines: "878878",
         wilhelm_above: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_below: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_symbolic:
@@ -2128,7 +2128,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u89e3",
         pinyin: "xi\u00e8",
         english: "Relief",
-        lines: "887878",
+        lines: "878788",
         wilhelm_above: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_below: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_symbolic:
@@ -2182,7 +2182,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u640d",
         pinyin: "s\u01d4n",
         english: "Decreasing",
-        lines: "788877",
+        lines: "778887",
         wilhelm_above: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_below: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_symbolic:
@@ -2236,7 +2236,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u76ca",
         pinyin: "y\u00ec",
         english: "Increasing",
-        lines: "778887",
+        lines: "788877",
         wilhelm_above: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_below: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_symbolic:
@@ -2290,7 +2290,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u592c",
         pinyin: "gu\u00e0i",
         english: "Eliminating",
-        lines: "877777",
+        lines: "777778",
         wilhelm_above: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_below: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_symbolic:
@@ -2344,7 +2344,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u59e4",
         pinyin: "g\u00f2u",
         english: "Encountering",
-        lines: "777778",
+        lines: "877777",
         wilhelm_above: { chinese: "CH'IEN", symbolic: "THE CREATIVE,", alchemical: "HEAVEN" },
         wilhelm_below: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_symbolic:
@@ -2398,7 +2398,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8403",
         pinyin: "cu\u00ec",
         english: "Bringing Together",
-        lines: "877888",
+        lines: "888778",
         wilhelm_above: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_below: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_symbolic:
@@ -2452,7 +2452,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5347",
         pinyin: "sh\u0113ng",
         english: "Growing Upward",
-        lines: "888778",
+        lines: "877888",
         wilhelm_above: { chinese: "K'UN", symbolic: "THE RECEPTIVE,", alchemical: "EARTH" },
         wilhelm_below: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND," },
         wilhelm_symbolic:
@@ -2506,7 +2506,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u56f0",
         pinyin: "k\u00f9n",
         english: "Exhausting",
-        lines: "877878",
+        lines: "878778",
         wilhelm_above: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_below: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_symbolic:
@@ -2560,7 +2560,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u4e95",
         pinyin: "j\u01d0ng",
         english: "Replenishing",
-        lines: "878778",
+        lines: "877878",
         wilhelm_above: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_below: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND," },
         wilhelm_symbolic:
@@ -2614,7 +2614,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u9769",
         pinyin: "g\u00e9",
         english: "Abolishing The Old",
-        lines: "877787",
+        lines: "787778",
         wilhelm_above: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_symbolic:
@@ -2668,7 +2668,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u9f0e",
         pinyin: "d\u01d0ng",
         english: "Establishing The New",
-        lines: "787778",
+        lines: "877787",
         wilhelm_above: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_below: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND," },
         wilhelm_symbolic:
@@ -2722,7 +2722,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u9707",
         pinyin: "zh\u00e8n",
         english: "Taking Action",
-        lines: "887887",
+        lines: "788788",
         wilhelm_above: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_below: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_symbolic:
@@ -2776,7 +2776,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u826e",
         pinyin: "g\u00e8n",
         english: "Keeping Still",
-        lines: "788788",
+        lines: "788887",
         wilhelm_above: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_below: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_symbolic:
@@ -2830,7 +2830,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u6f38",
         pinyin: "ji\u00e0n",
         english: "Developing Gradually",
-        lines: "778788",
+        lines: "778877",
         wilhelm_above: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND," },
         wilhelm_below: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_symbolic:
@@ -2884,7 +2884,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u6b78\u59b9",
         pinyin: "gu\u012bm\u00e8i",
         english: "Marrying Maiden",
-        lines: "887877",
+        lines: "778788",
         wilhelm_above: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_below: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_symbolic:
@@ -2938,7 +2938,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u8c50",
         pinyin: "f\u0113ng",
         english: "Abundance",
-        lines: "887787",
+        lines: "787788",
         wilhelm_above: { chinese: "CH\u00eaN", symbolic: "THE AROUSING,", alchemical: "THUNDER" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_symbolic:
@@ -2992,7 +2992,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u65c5",
         pinyin: "l\u01da",
         english: "Travelling",
-        lines: "787788",
+        lines: "787787",
         wilhelm_above: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_below: { chinese: "K\u00eaN", symbolic: "KEEPING STILL,", alchemical: "MOUNTAIN" },
         wilhelm_symbolic:
@@ -3046,7 +3046,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u5dfd",
         pinyin: "x\u00f9n",
         english: "Proceeding Humbly",
-        lines: "778778",
+        lines: "877877",
         wilhelm_above: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND," },
         wilhelm_below: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND," },
         wilhelm_symbolic:
@@ -3100,7 +3100,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u514c",
         pinyin: "du\u00ec",
         english: "Joyful",
-        lines: "877877",
+        lines: "778778",
         wilhelm_above: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_below: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_symbolic:
@@ -3154,7 +3154,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u6e19",
         pinyin: "hu\u00e0n",
         english: "Dispersing",
-        lines: "778878",
+        lines: "878877",
         wilhelm_above: { chinese: "SUN", symbolic: "THE GENTLE,", alchemical: "WIND" },
         wilhelm_below: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_symbolic:
@@ -3208,7 +3208,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u7bc0",
         pinyin: "ji\u00e9",
         english: "Restricting",
-        lines: "878877",
+        lines: "778878",
         wilhelm_above: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_below: { chinese: "TUI", symbolic: "THE JOYOUS,", alchemical: "LAKE" },
         wilhelm_symbolic:
@@ -3370,7 +3370,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u65e2\u6fdf",
         pinyin: "j\u00ecj\u00ec",
         english: "Already Fulfilled",
-        lines: "878787",
+        lines: "787878",
         wilhelm_above: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_below: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FIRE" },
         wilhelm_symbolic:
@@ -3424,7 +3424,7 @@ const HexagramManifest: Record<string, Hexagram> = {
         trad_chinese: "\u672a\u6fdf",
         pinyin: "w\u00e8ij\u00ec",
         english: "Not Yet Fulfilled",
-        lines: "787878",
+        lines: "878787",
         wilhelm_above: { chinese: "LI", symbolic: "THE CLINGING,", alchemical: "FLAME" },
         wilhelm_below: { chinese: "K'AN", symbolic: "THE ABYSMAL,", alchemical: "WATER" },
         wilhelm_symbolic:
