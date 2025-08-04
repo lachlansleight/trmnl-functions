@@ -54,6 +54,8 @@ const getLine = (allStalks: number[]) => {
     return finalTotal;
 };
 
+export const revalidate = 0;
+
 export const GET = async () => {
     let allStalks: number[] = Array.from({ length: 50 }, (_, i) => i);
     allStalks.sort((a, b) => Math.random() - 0.5);
